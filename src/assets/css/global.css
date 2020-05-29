@@ -1,0 +1,7 @@
+html,body,#app{
+    margin: 0;
+    padding: 0;
+  }
+  html {
+    background-image: url('../../assets/imgs/monitor-device-bg.0b02faf.png');
+  }
